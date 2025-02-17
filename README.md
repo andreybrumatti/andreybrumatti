@@ -13,8 +13,8 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=typescript" width="50" alt="TypeScript" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=react" width="50" alt="React.js" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="50" alt="Next.js" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="50" alt="Tailwind CSS" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="50" alt="Node.js" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="50" alt="Tailwind CSS" /></td>
   </tr>
 </table>
 
