@@ -1,46 +1,53 @@
-<h1 align="center">👋 Olá! Eu sou Andrey Porto Brumatti 🚀</h1>
+# Andrey Porto Brumatti  
 
-<p align="center">
-  🎓 Estudante de <strong>Sistemas de Informação</strong> <br/>
-  💻 Apaixonado por desenvolvimento web e tecnologia <br/>
-  🚀 Buscando evoluir constantemente como desenvolvedor
-</p>
+🎓 Estudante de **Sistemas de Informação**  
+💻 Desenvolvedor focado em **TypeScript, React.js e Next.js**  
+🚀 Aprimorando minhas habilidades no desenvolvimento full stack  
 
 ---
 
-## 🛠️ Tecnologias que utilizo
+## 🔹 Tecnologias  
 
-🔹 **Linguagem principal:**  
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-🔹 **Frameworks e bibliotecas:**  
-
-![React.js](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
-
-🔹 **Ferramentas e práticas:**  
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=typescript" width="50" alt="TypeScript" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="50" alt="React.js" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="50" alt="Next.js" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="50" alt="Tailwind CSS" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="50" alt="Node.js" /></td>
+  </tr>
+</table>
 
 ---
 
-## 📚 Atualmente aprendendo  
-- 🛠️ Desenvolvimento full stack com **Next.js**  
-- 🌍 Melhorando minhas habilidades em **UI/UX e Design Responsivo**  
-- ⚡ Explorando **Node.js** para backend  
+## 🔹 Em constante aprendizado  
+
+Atualmente, estou aprofundando meus conhecimentos em:  
+- Desenvolvimento Frontend com **Next.js**  
+- Práticas de **UI/UX e Design Responsivo**  
+- Backend com **Node.js**  
 
 ---
 
-## 🌍 Conecte-se comigo  
+## 🔹 Onde me encontrar  
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/andrey-porto-brumatti-311b97286/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://github.com/andreybrumatti" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</p>
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/andrey-porto-brumatti-311b97286/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="LinkedIn" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:andreybrumatti@gmail.com">
+        <img src="https://skillicons.dev/icons?i=gmail" width="50" alt="E-mail" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://andreybrumatti.dev/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=vercel" width="50" alt="Portfólio" />
+      </a>
+    </td>
+  </tr>
+</table>
