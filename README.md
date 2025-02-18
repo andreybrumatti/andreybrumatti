@@ -7,13 +7,14 @@
 <body>
   <pre>
   class Dev {
-    nome = "Andrey Porto Brumatti";
-    area = "Desenvolvimento Full Stack";
-    experiencia = "Construindo aplicações web escaláveis e performáticas";
-    contato = {
-      linkedin: "linkedin.com/in/andrey-porto-brumatti-311b97286",
-      email: "andreybrumatti@gmail.com",
-      portfolio: "andreybrumatti.dev",
+  readonly nome: string = "Andrey Porto Brumatti";
+  readonly area: string = "Desenvolvimento Full Stack";
+  readonly proposito: string = "Construir aplicações web escaláveis e performáticas";
+
+  readonly contato = {
+    linkedin: "linkedin.com/in/andrey-porto-brumatti-311b97286",
+    email: "andreybrumatti@gmail.com",
+    portfolio: "andreybrumatti.dev",
     };
   }
   </pre>
