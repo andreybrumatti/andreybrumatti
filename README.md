@@ -23,7 +23,7 @@
     <img src="https://skillicons.dev/icons?i=typescript,react,nextjs,nodejs,tailwind" width="250" />
   </p>
 
-  ## 📚 Em constante aprendizado  
+  ## 📚 Aprendizado  
 
 Atualmente, estou aprofundando meus conhecimentos em:  
 - Desenvolvimento Frontend com **Next.js**  
