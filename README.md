@@ -22,5 +22,12 @@
   <p>
     <img src="https://skillicons.dev/icons?i=typescript,react,nextjs,nodejs,tailwind" width="250" />
   </p>
+
+  ## 📚 Em constante aprendizado  
+
+Atualmente, estou aprofundando meus conhecimentos em:  
+- Desenvolvimento Frontend com **Next.js**  
+- Práticas de **UI/UX e Design Responsivo**  
+- Backend com **Node.js**  
 </body>
 </html>
