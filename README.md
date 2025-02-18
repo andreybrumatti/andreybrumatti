@@ -7,10 +7,10 @@
 <body>
   <pre>
   class Dev {
-  readonly nome: string = "Andrey Porto Brumatti";
-  readonly area: string = "Desenvolvimento Full Stack";
-  readonly proposito: string = "Construir aplicações web escaláveis e performáticas";
-
+    readonly nome: string = "Andrey Porto Brumatti";
+    readonly area: string = "Desenvolvimento Full Stack";
+    readonly proposito: string = "Construir aplicações web escaláveis e performáticas";
+    <br/>
   readonly contato = {
     linkedin: "linkedin.com/in/andrey-porto-brumatti-311b97286",
     email: "andreybrumatti@gmail.com",
