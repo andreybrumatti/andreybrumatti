@@ -10,7 +10,7 @@
     readonly nome: string = "Andrey Porto Brumatti";
     readonly area: string = "Desenvolvimento Full Stack";
     readonly proposito: string = "Construir aplicações web escaláveis e performáticas";
-    <br/>
+  <hr/>
   readonly contato = {
     linkedin: "linkedin.com/in/andrey-porto-brumatti-311b97286",
     email: "andreybrumatti@gmail.com",
