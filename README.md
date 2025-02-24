@@ -11,12 +11,7 @@
     readonly area: string = "Desenvolvimento Full Stack";
     readonly proposito: string = "Construir aplicações web escaláveis e performáticas";
   <hr/>
-  readonly contato = {
-    linkedin: "linkedin.com/in/andrey-porto-brumatti-311b97286",
-    email: "andreybrumatti@gmail.com",
-    portfolio: "andreybrumatti.dev",
-    };
-  }
+    
   </pre>
   <h2>🔹Stack</h2>
   <p>
@@ -28,6 +23,18 @@
 Atualmente, estou aprofundando meus conhecimentos em:  
 - Desenvolvimento Frontend com **Next.js**  
 - Práticas de **UI/UX e Design Responsivo**  
-- Backend com **Node.js**  
+- Backend com **Node.js**
+
+ ## Contato
+
+<p align="left">
+  <a href="https://linkedin.com/in/andrey-porto-brumatti-311b97286" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
+  </a>
+  <a href="mailto:andreybrumatti@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="50" />
+  </a>
+</p>
+
 </body>
 </html>
