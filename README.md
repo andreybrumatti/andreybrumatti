@@ -10,6 +10,7 @@
     readonly nome: string = "Andrey Porto Brumatti";
     readonly area: string = "Desenvolvimento Full Stack";
     readonly proposito: string = "Construir aplicações web escaláveis e performáticas";
+    }
   <hr/>
     
   </pre>
