@@ -32,7 +32,7 @@ Atualmente, estou aprofundando meus conhecimentos em:
   <a href="https://linkedin.com/in/andrey-porto-brumatti-311b97286" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
   </a>
-  <a href="mailto:andreybrumatti@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&to=andreybrumatti@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" width="50" />
   </a>
 </p>
