@@ -16,14 +16,15 @@
   </pre>
   <h2>🔹Stack</h2>
   <p>
-    <img src="https://skillicons.dev/icons?i=typescript,react,nextjs,tailwind" width="250" />
+    <img src="https://skillicons.dev/icons?i=typescript,react,nextjs,tailwind,java,spring" width="250" />
   </p>
 
   ## 📚 Aprendizado  
 
 Atualmente, estou aprofundando meus conhecimentos em:  
 - Desenvolvimento Frontend com **Next.js**  
-- Práticas de **UI/UX e Design Responsivo**  
+- Práticas de **UI/UX e Design Responsivo**
+- Desenvolvimento Backend com **Spring Boot**
 
  ## Contato
 
