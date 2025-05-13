@@ -14,14 +14,13 @@
   <hr/>
     
   </pre>
-  <h2>🔹Stack</h2>
+  <h2>🔹Technologies</h2>
   <p>
     <img src="https://skillicons.dev/icons?i=typescript,react,nextjs,tailwind,java,spring" width="250" />
   </p>
 
   ## 📚 Learning in the moment  
-
-I am currently deepening my knowledge in:
+  
 - Frontend Development with **Next.js**
 - **UI/UX and Responsive Design** Practices
 - Backend Development with **Spring Boot**
