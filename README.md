@@ -7,9 +7,9 @@
 <body>
   <pre>
   class Dev {
-    readonly nome: string = "Andrey Porto Brumatti";
-    readonly area: string = "Desenvolvimento Full Stack";
-    readonly proposito: string = "Construir aplicações web escaláveis e performáticas";
+    readonly name: string = "Andrey Porto Brumatti";
+    readonly area: string = "Development Full Stack";
+    readonly purpose: string = "Build scalable and performant web applications";
     }
   <hr/>
     
@@ -19,14 +19,14 @@
     <img src="https://skillicons.dev/icons?i=typescript,react,nextjs,tailwind,java,spring" width="250" />
   </p>
 
-  ## 📚 Aprendizado  
+  ## 📚 Learning in the moment  
 
-Atualmente, estou aprofundando meus conhecimentos em:  
-- Desenvolvimento Frontend com **Next.js**  
-- Práticas de **UI/UX e Design Responsivo**
-- Desenvolvimento Backend com **Spring Boot**
+I am currently deepening my knowledge in:
+- Frontend Development with **Next.js**
+- **UI/UX and Responsive Design** Practices
+- Backend Development with **Spring Boot**
 
- ## Contato
+ ## Contact
 
 <p align="left">
   <a href="https://linkedin.com/in/andrey-porto-brumatti-311b97286" target="_blank">
