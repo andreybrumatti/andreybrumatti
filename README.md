@@ -16,7 +16,7 @@
   </pre>
   <h2>🔹Technologies</h2>
   <p>
-    <img src="https://skillicons.dev/icons?i=typescript,react,nextjs,tailwind,java,spring,docker" width="250" />
+    <img src="https://skillicons.dev/icons?i=typescript,react,nextjs,tailwind,java,spring,docker,kafka" width="250" />
   </p>
 
   ## 📚 Learning in the moment  
