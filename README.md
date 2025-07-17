@@ -26,7 +26,7 @@
 
 <h2>📫 Contact</h2>
 <p>
-  <a href="https://linkedin.com/in/andrey-porto-brumatti-311b97286" target="_blank">
+  <a href="https://linkedin.com/in/andrey-porto-brumatti" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
   </a>
   <a href="mailto:andreybrumatti@gmail.com" target="_blank">
