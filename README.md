@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-<pre>
+<pre style="font-size: 18px;">
   Hi, I'm Andrey Porto Brumatti — Full Stack Developer.
   Focused on building modern, scalable, and efficient web applications.
 </pre>
@@ -29,7 +29,7 @@
   <a href="https://linkedin.com/in/andrey-porto-brumatti" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
   </a>
-  <a href="mailto:andreybrumatti@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&to=andreybrumatti@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" width="50" />
   </a>
 </p>
