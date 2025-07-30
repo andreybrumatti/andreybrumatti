@@ -12,7 +12,15 @@
 
 <h2>🔹 Technologies I Work With</h2>
 <p>
-  <img src="https://skillicons.dev/icons?i=typescript,react,nextjs,tailwind,java,spring,docker,kafka,postgres" width="300" />
+  <img src="https://skillicons.dev/icons?i=typescript" width="50" style="margin-left: -20px;" />
+  <img src="https://skillicons.dev/icons?i=react" width="50" style="margin-left: -20px;" />
+  <img src="https://skillicons.dev/icons?i=nextjs" width="50" style="margin-left: -20px;" />
+  <img src="https://skillicons.dev/icons?i=tailwind" width="50" style="margin-left: -20px;" />
+  <img src="https://skillicons.dev/icons?i=java" width="50" style="margin-left: -20px;" />
+  <img src="https://skillicons.dev/icons?i=spring" width="50" style="margin-left: -20px;" />
+  <img src="https://skillicons.dev/icons?i=docker" width="50" style="margin-left: -20px;" />
+  <img src="https://skillicons.dev/icons?i=kafka" width="50" style="margin-left: -20px;" />
+  <img src="https://skillicons.dev/icons?i=postgres" width="50" style="margin-left: -20px;" />
 </p>
 
 <h2>📚 Currently Learning</h2>
