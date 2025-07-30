@@ -12,7 +12,7 @@
 
 <h2>🔹 Technologies I Work With</h2>
 <p>
-  <img src="https://skillicons.dev/icons?i=typescript,react,nextjs,tailwind,java,spring,docker,kafka" width="300" />
+  <img src="https://skillicons.dev/icons?i=typescript,react,nextjs,tailwind,java,spring,docker,kafka,postgres" width="300" />
 </p>
 
 <h2>📚 Currently Learning</h2>
