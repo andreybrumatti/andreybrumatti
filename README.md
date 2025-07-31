@@ -5,10 +5,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-<pre style="font-size: 18px;">
+<h3>
   Hi, I'm Andrey Porto Brumatti — Full Stack Developer.
-  Focused on building modern, scalable, and efficient web applications.
-</pre>
+</h3>
 
 <h2>🔹 Technologies I Work With</h2>
 <p>
