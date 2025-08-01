@@ -5,11 +5,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-<h3>
+<h2>
   Hi, I'm Andrey Porto Brumatti — Full Stack Developer.
-</h3>
+</h2>
 
-<h2>🔹 Technologies I Work With</h2>
+<h3>🔹 Technologies I Work With</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=typescript" width="50" style="margin-left: -20px;" />
   <img src="https://skillicons.dev/icons?i=react" width="50" style="margin-left: -20px;" />
@@ -22,7 +22,7 @@
   <img src="https://skillicons.dev/icons?i=postgres" width="50" style="margin-left: -20px;" />
 </p>
 
-<h2>📚 Currently Learning</h2>
+<h3>📚 Currently Learning</h3>
 <ul>
   <li>Frontend development with <strong>Next.js</strong></li>
   <li><strong>UI/UX</strong> principles and responsive design practices</li>
@@ -31,7 +31,7 @@
   <li>Microservices architecture using <strong>Spring Cloud</strong></li>
 </ul>
 
-<h2>📫 Contact</h2>
+<h3>📫 Contact</h3>
 <p>
   <a href="https://linkedin.com/in/andrey-porto-brumatti" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
