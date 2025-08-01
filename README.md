@@ -17,6 +17,7 @@
   <img src="https://skillicons.dev/icons?i=tailwind" width="50" style="margin-left: -20px;" />
   <img src="https://skillicons.dev/icons?i=java" width="50" style="margin-left: -20px;" />
   <img src="https://skillicons.dev/icons?i=spring" width="50" style="margin-left: -20px;" />
+  <img src="https://skillicons.dev/icons?i=aws" width="50" style="margin-left: -20px;" />
   <img src="https://skillicons.dev/icons?i=docker" width="50" style="margin-left: -20px;" />
   <img src="https://skillicons.dev/icons?i=kafka" width="50" style="margin-left: -20px;" />
   <img src="https://skillicons.dev/icons?i=postgres" width="50" style="margin-left: -20px;" />
