@@ -17,10 +17,12 @@
   <img src="https://skillicons.dev/icons?i=tailwind" width="45" style="margin-left: -20px;" />
   <img src="https://skillicons.dev/icons?i=java" width="45" style="margin-left: -20px;" />
   <img src="https://skillicons.dev/icons?i=spring" width="45" style="margin-left: -20px;" />
-  <img src="https://skillicons.dev/icons?i=aws" width="45" style="margin-left: -20px;" />
-  <img src="https://skillicons.dev/icons?i=docker" width="45" style="margin-left: -20px;" />
-  <img src="https://skillicons.dev/icons?i=kafka" width="45" style="margin-left: -20px;" />
   <img src="https://skillicons.dev/icons?i=postgres" width="45" style="margin-left: -20px;" />
+  <img src="https://skillicons.dev/icons?i=aws" width="45" style="margin-left: -20px;" />
+  <img src="https://skillicons.dev/icons?i=jenkins" width="45" style="margin-left: -20px;" />
+  <img src="https://skillicons.dev/icons?i=kafka" width="45" style="margin-left: -20px;" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" width="45" style="margin-left: -20px;" />
+  <img src="https://skillicons.dev/icons?i=docker" width="45" style="margin-left: -20px;" />
 </p>
 
 <h3>📚 Currently Learning</h3>
