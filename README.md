@@ -13,10 +13,9 @@
 <p>
   <img src="https://skillicons.dev/icons?i=typescript" width="45" style="margin-left: -20px;" />
   <img src="https://skillicons.dev/icons?i=react" width="45" style="margin-left: -20px;" />
-  <img src="https://skillicons.dev/icons?i=nextjs" width="45" style="margin-left: -20px;" />
   <img src="https://skillicons.dev/icons?i=tailwind" width="45" style="margin-left: -20px;" />
-  <img src="https://skillicons.dev/icons?i=java" width="45" style="margin-left: -20px;" />
-  <img src="https://skillicons.dev/icons?i=spring" width="45" style="margin-left: -20px;" />
+  <img src="https://skillicons.dev/icons?i=php" width="45" style="margin-left: -20px;" />
+  <img src="https://skillicons.dev/icons?i=laravel" width="45" style="margin-left: -20px;" />
   <img src="https://skillicons.dev/icons?i=postgres" width="45" style="margin-left: -20px;" />
   <img src="https://skillicons.dev/icons?i=mysql" width="45" style="margin-left: -20px;" />
   <img src="https://skillicons.dev/icons?i=aws" width="45" style="margin-left: -20px;" />
@@ -25,15 +24,6 @@
   <img src="https://skillicons.dev/icons?i=kubernetes" width="45" style="margin-left: -20px;" />
   <img src="https://skillicons.dev/icons?i=docker" width="45" style="margin-left: -20px;" />
 </p>
-
-<h3>📚 Currently Learning</h3>
-<ul>
-  <li>Frontend development with <strong>Next.js</strong></li>
-  <li><strong>UI/UX</strong> principles and responsive design practices</li>
-  <li>Backend development with <strong>Spring Boot</strong></li>
-  <li>Message-driven architecture with <strong>Kafka</strong></li>
-  <li>Microservices architecture using <strong>Spring Cloud</strong></li>
-</ul>
 
 <h3>📫 Contact</h3>
 <p>
