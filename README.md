@@ -6,13 +6,12 @@
 </head>
 <body>
 <h2>
-  Hi, I'm Andrey Porto Brumatti — Full Stack Developer.
+  Hi, I'm Andrey Porto Brumatti — Backend Developer.
 </h2>
 
 <h3>🔹 Technologies I Work With</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=typescript" width="45" style="margin-left: -20px;" />
-  <img src="https://skillicons.dev/icons?i=react" width="45" style="margin-left: -20px;" />
+  <img src="https://skillicons.dev/icons?i=go" width="45" style="margin-left: -20px;" />
   <img src="https://skillicons.dev/icons?i=php" width="45" style="margin-left: -20px;" />
   <img src="https://skillicons.dev/icons?i=laravel" width="45" style="margin-left: -20px;" />
   <img src="https://skillicons.dev/icons?i=postgres" width="45" style="margin-left: -20px;" />
