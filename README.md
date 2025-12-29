@@ -9,7 +9,7 @@
   Hi, I'm Andrey Porto Brumatti — Backend Developer.
 </h2>
 
-<h3>🔹 Technologies I Work With</h3>
+<h3> Technologies I Work With</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=go" width="45" style="margin-left: -20px;" />
   <img src="https://skillicons.dev/icons?i=php" width="45" style="margin-left: -20px;" />
@@ -23,7 +23,7 @@
   <img src="https://skillicons.dev/icons?i=docker" width="45" style="margin-left: -20px;" />
 </p>
 
-<h3>📫 Contact</h3>
+<h3>Contact</h3>
 <p>
   <a href="https://linkedin.com/in/andrey-porto-brumatti" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
