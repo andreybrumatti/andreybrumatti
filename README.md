@@ -6,7 +6,7 @@
 </head>
 <body>
 <h2>
-  Hi, I'm Andrey Porto Brumatti — Backend Developer.
+  Hi, I'm Andrey Porto Brumatti — Software Developer.
 </h2>
 
 <h3> Technologies I Work With</h3>
